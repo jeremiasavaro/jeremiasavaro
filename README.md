@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! 👋, soy Jeremias
 
-<!--
-**jeremiasavaro/jeremiasavaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 **Estudiante** con grandes aspiraciones en el mundo de la programación y el desarrollo. 
+Actualmente estudiante de Tercer año de "Analista en Computación" y "Licenciatura En Ciencias De La Computación" en la Universidad Nacional de Rio Cuarto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mis Tecnologías Favoritas:
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Flask, Python, Ruby
+- **Otros:** Git, SQL
+
+
+### 📈 Estadísticas de GitHub:                                                                                                                      
+![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=jeremiasavaro&show_icons=true&theme=radical)    
+
+
+### 📊 Mis Lenguajes Principales:
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiasavaro&layout=compact&theme=radical)
+
+
+✨ **¡Gracias por visitar mi perfil!** ✨
