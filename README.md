@@ -9,8 +9,9 @@
 ### 📈 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeremiasavaro&show_icons=true&theme=radical" alt="Tus estadísticas"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiasavaro&layout=compact&theme=radical" alt="Mis lenguajes principales"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeremiasavaro&show_icons=true&theme=radical&count_private=true&hide=stars" alt="Tus estadísticas"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiasavaro&layout=compact&theme=radical&langs_count=8" alt="Mis lenguajes principales"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=jeremiasavaro&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="Mis streaks"/>
 </div>
 
 ---
