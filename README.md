@@ -2,7 +2,7 @@
 
 ---
 
-🎓 **Estudiante apasionado por la tecnología** y en camino de convertirme en un **Desarrollador Fullstack**. Actualmente, estudio **Analista en Computación** y **Licenciatura en Ciencias de la Computación** en la Universidad Nacional de Río Cuarto.
+🎓 **Estudiante apasionado por la tecnología** y en camino de convertirme en un programador completo. Actualmente, estudio **Analista en Computación** y **Licenciatura en Ciencias de la Computación** en la Universidad Nacional de Río Cuarto.
 
 ---
 
