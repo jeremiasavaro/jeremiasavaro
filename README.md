@@ -1,22 +1,25 @@
-# ¡Hola! 👋, soy Jeremias
+# ¡Hola! 👋, soy Jeremías
 
 ---
 
 🎓 **Estudiante** con grandes aspiraciones en el mundo de la programación y el desarrollo. 
-Actualmente estudiante de Tercer año de "Analista en Computación" y "Licenciatura En Ciencias De La Computación" en la Universidad Nacional de Rio Cuarto
+Actualmente estudiante de Tercer año de "Analista en Computación" y "Licenciatura En Ciencias De La Computación" en la Universidad Nacional de Río Cuarto.
 
-### 🚀 Mis Tecnologías Favoritas:
-- **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** Flask, Python, Ruby
-- **Otros:** Git, SQL
+---
 
+### 📊 Mis Estadísticas y Lenguajes:
 
-### 📈 Estadísticas de GitHub:                                                                                                                      
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=jeremiasavaro&show_icons=true&theme=radical)    
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jeremiasavaro&show_icons=true&theme=radical" alt="Tus Estadísticas" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiasavaro&layout=compact&theme=radical" alt="Top Lenguajes" />
+    </td>
+  </tr>
+</table>
 
-
-### 📊 Mis Lenguajes Principales:
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiasavaro&layout=compact&theme=radical)
-
+---
 
 ✨ **¡Gracias por visitar mi perfil!** ✨
