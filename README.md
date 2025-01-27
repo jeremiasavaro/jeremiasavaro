@@ -31,10 +31,10 @@
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left;">
   <img src="https://skillicons.dev/icons?i=java" height="44" alt="Java" style="margin-right: 8px">
   <img src="https://skillicons.dev/icons?i=haskell" height="44" alt="Haskell" style="margin-right: 8px">
-  <img src="https://skillicons.dev/icons?i=javascript" height="44" alt="JavaScript" style="margin-right: 8px">
   <img src="https://skillicons.dev/icons?i=python" height="44" alt="Python" style="margin-right: 8px">
   <img src="https://skillicons.dev/icons?i=flask" height="44" alt="Flask" style="margin-right: 8px">
   <img src="https://skillicons.dev/icons?i=ruby" height="44" alt="Ruby" style="margin-right: 8px">
+  <img src="https://skillicons.dev/icons?i=rails" height="44" alt="Rails" style="margin-right: 8px">
   <img src="https://skillicons.dev/icons?i=mysql" height="44" alt="MySQL" style="margin-right: 8px">
   <img src="https://skillicons.dev/icons?i=postgresql" height="44" alt="PostgreSQL" style="margin-right: 8px">
   <img src="https://skillicons.dev/icons?i=sqlite" height="44" alt="SQLite" style="margin-right: 8px">
@@ -44,7 +44,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="44" alt="Git" style="margin-right: 8px">
   <img src="https://skillicons.dev/icons?i=linux" height="44" alt="Linux" style="margin-right: 8px">
   <img src="https://skillicons.dev/icons?i=vscode" height="44" alt="VSCode" style="margin-right: 8px">
-  <img src="https://skillicons.dev/icons?i=pycharm" height="44" alt="PyCharm" style="margin-right: 8px">
 </div>
 
 
