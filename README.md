@@ -23,7 +23,7 @@
 
 **<h3 align="left">Rapid Fire 📨</h3>**
 
-- 💼 I'm currently working on: **💻 Develop my own personal projects and learn along the way**
+- 💼 I'm currently working at: **💻 Plum Labs**
 - 🌱 I'm currently learning: **📚 Studying at university**
 
  **<h3 align="left">Skills ⚡</h3>**
