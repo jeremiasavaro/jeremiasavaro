@@ -15,8 +15,8 @@
 
 <p align="left" style="font-size: 18px; color: #3498db;">
   🎓 <strong>Student passionate about technology</strong> and on the way to becoming a complete programmer.
-  Currently, I am studying <strong>Computer Analyst</strong> and <strong>Bachelor in Computer Science</strong>
-  at the National University of Río Cuarto. And I am constantly learning to become a fullstack developer.
+  Currently, I am studying <strong>Bachelor in Computer Science</strong>
+  at the National University of Río Cuarto.
 </p>
 
 
